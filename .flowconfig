@@ -1,0 +1,10 @@
+[ignore]
+../public
+[include]
+../src/**/*.jsx
+../src/**/*.js
+../src/**/*.sass
+../src/**/*.scss
+[libs]
+
+[options]
